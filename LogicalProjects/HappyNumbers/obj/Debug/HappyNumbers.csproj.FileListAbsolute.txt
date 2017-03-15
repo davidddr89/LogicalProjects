@@ -1,0 +1,9 @@
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.pdb
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.csprojResolveAssemblyReference.cache
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.pdb
+C:\Users\De Rita\Desktop\proyectos logicos\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+C:\Users\De Rita\Desktop\proyectos logicos\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.exe
+C:\Users\De Rita\Desktop\proyectos logicos\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.pdb

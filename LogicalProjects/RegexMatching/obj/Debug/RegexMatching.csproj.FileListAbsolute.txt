@@ -1,0 +1,6 @@
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\bin\Debug\RegexMatching.exe.config
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\bin\Debug\RegexMatching.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\bin\Debug\RegexMatching.pdb
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\obj\Debug\RegexMatching.csprojResolveAssemblyReference.cache
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\obj\Debug\RegexMatching.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\RegexMatching\RegexMatching\obj\Debug\RegexMatching.pdb

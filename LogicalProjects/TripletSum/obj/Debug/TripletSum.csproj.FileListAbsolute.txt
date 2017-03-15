@@ -1,0 +1,7 @@
+c:\users\ddrita\documents\visual studio 2013\Projects\TripletSum\TripletSum\bin\Debug\TripletSum.exe.config
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\bin\Debug\TripletSum.exe.config
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\bin\Debug\TripletSum.exe
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\bin\Debug\TripletSum.pdb
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\obj\Debug\TripletSum.csprojResolveAssemblyReference.cache
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\obj\Debug\TripletSum.exe
+C:\Users\De Rita\Desktop\proyectos logicos\TripletSum\TripletSum\obj\Debug\TripletSum.pdb

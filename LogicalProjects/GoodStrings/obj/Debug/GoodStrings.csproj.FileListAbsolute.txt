@@ -1,0 +1,12 @@
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\bin\Debug\GoodStrings.exe.config
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\bin\Debug\GoodStrings.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\bin\Debug\GoodStrings.pdb
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\obj\Debug\GoodStrings.csprojResolveAssemblyReference.cache
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\obj\Debug\GoodStrings.exe
+c:\users\ddrita\documents\visual studio 2013\Projects\GoodStrings\GoodStrings\obj\Debug\GoodStrings.pdb
+C:\Users\De Rita\Desktop\proyectos logicos\GoodStrings\GoodStrings\bin\Debug\GoodStrings.exe.config
+C:\Users\De Rita\Desktop\proyectos logicos\GoodStrings\GoodStrings\obj\Debug\GoodStrings.exe
+C:\Users\De Rita\Desktop\proyectos logicos\GoodStrings\GoodStrings\obj\Debug\GoodStrings.pdb
+C:\Users\De Rita\Documents\Visual Studio 2015\Projects\LogicalProjects\GoodStrings\bin\Debug\GoodStrings.exe.config
+C:\Users\De Rita\Documents\Visual Studio 2015\Projects\LogicalProjects\GoodStrings\obj\Debug\GoodStrings.exe
+C:\Users\De Rita\Documents\Visual Studio 2015\Projects\LogicalProjects\GoodStrings\obj\Debug\GoodStrings.pdb
